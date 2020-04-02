@@ -1,0 +1,298 @@
+	.mediaViewInfo {
+		--web-view-name: Blog;
+		--web-view-id: Blog;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Blog;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Blog {
+		position: relative;
+		width: 1600px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Blog;
+		--web-view-id: Blog;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Titulo {
+		position: absolute;
+		width: 648.5px;
+		height: 52px;
+		left: 315.75px;
+		top: 48px;
+		overflow: visible;
+	}
+	#Blog_i {
+		position: absolute;
+		left: 261px;
+		top: 0px;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Gill Sans MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 45px;
+		color: rgba(255,170,58,1);
+	}
+	.L_nea_1 {
+		overflow: visible;
+		position: absolute;
+		width: 213px;
+		height: 4px;
+		left: 0px;
+		top: 33px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.L_nea_2 {
+		overflow: visible;
+		position: absolute;
+		width: 213.5px;
+		height: 4px;
+		left: 435px;
+		top: 33.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Articulo {
+		position: absolute;
+		width: 983px;
+		height: 922px;
+		left: 160px;
+		top: 158px;
+		overflow: hidden;
+	}
+	#Articulo_m {
+		position: absolute;
+		width: 435px;
+		height: 391px;
+		left: 9px;
+		top: 6px;
+		overflow: visible;
+	}
+	#IMG_2232 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 435px;
+		height: 224px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Paisaje_tur_stico_2019 {
+		position: absolute;
+		left: 0px;
+		top: 240px;
+		overflow: visible;
+		width: 349px;
+		height: 47px;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#Bariloche__en_la_Patagonia__mu {
+		position: absolute;
+		left: 0px;
+		top: 303px;
+		overflow: visible;
+		width: 436px;
+		height: 51px;
+		line-height: 30px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Lucida Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(113,109,103,1);
+	}
+	.L_nea_3 {
+		overflow: visible;
+		position: absolute;
+		width: 435px;
+		height: 4px;
+		left: 0px;
+		top: 391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Articulo_r {
+		position: absolute;
+		width: 435px;
+		height: 391px;
+		left: 532px;
+		top: 6px;
+		overflow: visible;
+	}
+	#IMG_2232_s {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 435px;
+		height: 224px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Paisaje_tur_stico_2019_t {
+		position: absolute;
+		left: 0px;
+		top: 240px;
+		overflow: visible;
+		width: 349px;
+		height: 47px;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#Bariloche__en_la_Patagonia__mu_u {
+		position: absolute;
+		left: 0px;
+		top: 303px;
+		overflow: visible;
+		width: 436px;
+		height: 51px;
+		line-height: 30px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Lucida Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(113,109,103,1);
+	}
+	.L_nea_3_v {
+		overflow: visible;
+		position: absolute;
+		width: 435px;
+		height: 4px;
+		left: 0px;
+		top: 391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Articulo_w {
+		position: absolute;
+		width: 435px;
+		height: 391px;
+		left: 9px;
+		top: 480px;
+		overflow: visible;
+	}
+	#IMG_2232_x {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 435px;
+		height: 224px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Paisaje_tur_stico_2019_y {
+		position: absolute;
+		left: 0px;
+		top: 240px;
+		overflow: visible;
+		width: 349px;
+		height: 47px;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#Bariloche__en_la_Patagonia__mu_z {
+		position: absolute;
+		left: 0px;
+		top: 303px;
+		overflow: visible;
+		width: 436px;
+		height: 51px;
+		line-height: 30px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Lucida Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(113,109,103,1);
+	}
+	.L_nea_3_ {
+		overflow: visible;
+		position: absolute;
+		width: 435px;
+		height: 4px;
+		left: 0px;
+		top: 391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Articulo_ {
+		position: absolute;
+		width: 435px;
+		height: 391px;
+		left: 532px;
+		top: 480px;
+		overflow: visible;
+	}
+	#IMG_2232_ {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 435px;
+		height: 224px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Paisaje_tur_stico_2019_ {
+		position: absolute;
+		left: 0px;
+		top: 240px;
+		overflow: visible;
+		width: 349px;
+		height: 47px;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#Bariloche__en_la_Patagonia__mu_ {
+		position: absolute;
+		left: 0px;
+		top: 303px;
+		overflow: visible;
+		width: 436px;
+		height: 51px;
+		line-height: 30px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Lucida Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(113,109,103,1);
+	}
+	.L_nea_3_ba {
+		overflow: visible;
+		position: absolute;
+		width: 435px;
+		height: 4px;
+		left: 0px;
+		top: 391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
